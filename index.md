@@ -173,7 +173,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  If possible, before the start of the workshop, have a few specific software packages installed (listed <a href="#setup">below</a>).
 </p>
 
 {% comment %}
@@ -252,12 +252,12 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-
+{% endcomment %}
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is open to anyone affiliated with NC Central University. Others, please contact the lead instructors listed under "Contact".
 </p>
-{% endcomment %}
+
 
 <hr/>
 
